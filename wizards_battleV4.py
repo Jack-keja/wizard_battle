@@ -4,8 +4,8 @@ Wizards Battle - A 2D arcade game built with Pygame Zero
 A wizard must defend against approaching enemies by casting fireballs.
 Features real-time combat, enemy AI, animations, and scoring system.
 
-Author: [Your Name]
-Date: [Current Date]
+Author: Jack-Zhang
+Date: 2025.12.3
 Python Version: 3.6+
 Dependencies: pgzero, time, random
 """
