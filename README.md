@@ -39,7 +39,8 @@ This game is designed for:
    ```bash
    pip install pgzero
 3. **Ensure you have the required assets**:
-   Create an images folder and add these image files:
+   
+   Create an images folder and add these `image` files:
    - `wizard.png`
    - `wizard_flip.png`
    - `fire_ball.png`
@@ -50,3 +51,43 @@ This game is designed for:
    - `enemy_die.png`
    - `gameover.png`
    - `background.png`
+4. **Add sound effects**:
+
+   Create a `sounds` folder and add:
+   - `lasergun.wav`
+     
+**🎮 Controls**
+
+- **Arrow Keys**: Move the wizard (Up, Down, Left, Right)
+- **Spacebar**: Cast fireball
+- **N**: Restart game (when game over)
+
+**🎯 Gameplay**
+
+1. Use arrow keys to move your wizard around the screen
+2. Enemies will spawn and chase you intelligently
+3. Press spacebar to cast fireballs at enemies
+4. Earn 10 points for each enemy defeated
+5. Survive as long as possible within the time limit
+6. Avoid letting enemies reach you!
+
+**🏗️ Project Structure**
+
+wizards_battle/
+│
+├── wizards_battleV4.py      # Main game file
+├── README.md              # This file
+├── images/                # Game sprites
+│   ├── wizard.png
+│   ├── wizard_flip.png
+│   ├── fire_ball.png
+│   ├── fire_ball_flip.png
+│   ├── enemy_stand.png
+│   ├── enemy_running.png
+│   ├── enemy_running_flip.png
+│   ├── enemy_die.png
+│   ├── gameover.png
+│   └── background.png
+├── sounds/                # Audio files
+│   └── lasergun.wav
+└── game_screenshot.png         # Game screenshot
