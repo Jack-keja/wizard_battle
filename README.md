@@ -73,21 +73,4 @@ This game is designed for:
 
 **🏗️ Project Structure**
 
-wizards_battle/
-│
-├── wizards_battleV4.py      # Main game file
-├── README.md              # This file
-├── images/                # Game sprites
-│   ├── wizard.png
-│   ├── wizard_flip.png
-│   ├── fire_ball.png
-│   ├── fire_ball_flip.png
-│   ├── enemy_stand.png
-│   ├── enemy_running.png
-│   ├── enemy_running_flip.png
-│   ├── enemy_die.png
-│   ├── gameover.png
-│   └── background.png
-├── sounds/                # Audio files
-│   └── lasergun.wav
-└── game_screenshot.png         # Game screenshot
+<img width="393" height="380" alt="截屏2025-12-03 09 14 17" src="https://github.com/user-attachments/assets/9f2394d2-e092-4e15-a593-b29acc095c8d" />
