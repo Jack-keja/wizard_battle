@@ -3,7 +3,7 @@
 
 A thrilling 2D arcade-style game built with Python and Pygame Zero where you play as a wizard defending against approaching enemies using magical fireballs!
 
-![Game Screenshot](screenshot.png) <!-- Add a screenshot of your game -->
+![Game Screenshot](game_screenshot.png) <!-- Add a screenshot of your game -->
 
 ## 🎮 Game Features
 
