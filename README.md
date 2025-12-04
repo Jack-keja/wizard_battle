@@ -9,8 +9,9 @@ I really enjoyed controlling the player and the enemy. I discovered that player 
 
 However, animating the enemy's death sequence when struck by a fireball was a bit challenging. After discussing with my teacher, I learned to cycle through different sprite images in each frame using a flag variable to control the animation’s start and stop states. 
 
-
 ![Game Screenshot](game_screenshot.png) <!-- Add a screenshot of your game -->
+
+I used IA help to write more detailed comments in version 4 ( wizadrs_battleV4.py) so anyone can understand what I did. 
 
 ## 🎮 Game Features
 
