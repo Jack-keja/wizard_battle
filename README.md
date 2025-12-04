@@ -11,7 +11,7 @@ However, animating the enemy's death sequence when struck by a fireball was a bi
 
 ![Game Screenshot](game_screenshot.png) <!-- Add a screenshot of your game -->
 
-I used IA help to write more detailed comments in version 4 ( wizadrs_battleV4.py) so anyone can understand what I did. 
+I used AI help to write more detailed comments in version 4 ( wizadrs_battleV4.py) so anyone can understand what I did. 
 
 ## 🎮 Game Features
 
